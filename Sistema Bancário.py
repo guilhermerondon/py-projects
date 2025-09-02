@@ -8,7 +8,7 @@ menu = """
 [e] Extrato
 [q] Sair
 
-========================
+=======================
 => """
 
 # Variáveis principais
